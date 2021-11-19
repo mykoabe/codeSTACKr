@@ -7,7 +7,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Mekuanint's GitHub Stats" src="https://github-readme-stats.mykoabe.vercel.app/api?username=mykoabe&show_icons=true&hide_border=true" />
+  <img align="left" alt="Mekuanint's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mykoabe&show_icons=true&hide_border=true" />
 </details>
 
 [website]: https://codeSTACKr.com
