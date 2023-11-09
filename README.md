@@ -1,11 +1,27 @@
-### Hi there, I'm Mekuanint Abebe👋
+# Hi there, I'm Mekuanint Abebe! 👋
+
+## About Me
+
+- 🌱 I’m currently learning everything! 🤣
+- 💼 Software Engineer with a passion for Backend Development.
+- 🎓 Graduate in Software Engineering.
+- 🧠 Loves Mathematics and problem-solving.
+
+## 2024 Goals
+
+- Improve my problem-solving skills.
+- Contribute to open-source projects.
+
+## Fun Fact
+
+- Lives in a cave (just kidding! 😄)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-Visit-brightgreen)](https://www.your-website.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/your-twitter-handle)
 
 
-
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Improve my problem-solving skill
-- ⚡ Fun fact: Software engineer with a soft spot for Python and Node.js. Loves Mathematics. Lives in a cave.
----
-  <img align="left" alt="Mekuanint's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mykoabe&show_icons=true&hide_border=true" />
 
 
