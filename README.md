@@ -18,8 +18,8 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-Visit-brightgreen)](https://www.your-website.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mekuanint-abebe-1239871a0/)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-Visit-brightgreen)](https://twitter.com/MekuanintAbebe)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/your-twitter-handle)
 
 
